@@ -19,7 +19,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a89e8e0-f10b-48b4-958f-3d39b81d680d" name="Default Changelist" comment="Adding gitignore" />
+    <list default="true" id="3a89e8e0-f10b-48b4-958f-3d39b81d680d" name="Default Changelist" comment="Removing release config">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/springboot/animalclinic/model/Owner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/springboot/animalclinic/model/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/springboot/animalclinic/model/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/springboot/animalclinic/model/PetType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/classes/com/springboot/animalclinic/model/Vet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-data/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/classes/com/springboot/animalclinic/AnimalClinicApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/pet-clinic-web-0.0.1.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/TEST-com.springboot.animalclinic.AnimalClinicApplicationTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/surefire-reports/com.springboot.animalclinic.AnimalClinicApplicationTests.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pet-clinic-web/target/test-classes/com/springboot/animalclinic/AnimalClinicApplicationTests.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,11 +59,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aykQLASF7tOcvnlHaj2Bx0jPcl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -78,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587715203684</updated>
-      <workItem from="1587715213307" duration="17951000" />
+      <workItem from="1587715213307" duration="18726000" />
     </task>
     <task id="LOCAL-00001" summary="Basic POJO Commit">
       <created>1587785315154</created>
@@ -122,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587786322792</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Removing release config">
+      <created>1587786760532</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587786760532</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Removing release config">
+      <created>1587786978815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587786978815</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,9 +181,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Basic POJO Commit" />
     <MESSAGE value="Adding gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding gitignore" />
+    <MESSAGE value="Removing release config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removing release config" />
   </component>
   <component name="WindowStateProjectService">
     <state x="654" y="275" key="#Notifications" timestamp="1587786182988">
@@ -165,26 +208,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1587763414132" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587768144200">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1587787091292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587768144200" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1587768144200">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587787091292" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1587787091292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587768144200" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1587768144200">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587787091292" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1587787091292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587768144200" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1587768144200">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587787091292" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1587787091292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587768144200" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1587786325714">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587787091292" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1587786981085">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587786325714" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1587786981085" />
     <state x="584" y="190" key="chooseDestDirectoryDialog" timestamp="1587758969874">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
