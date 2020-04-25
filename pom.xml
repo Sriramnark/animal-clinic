@@ -46,7 +46,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/Sriramnark/animal-clinic.git</developerConnection>
-      <tag>animal-clinic-1.0.3</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
 
